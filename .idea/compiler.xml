@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javajunior" />
+        <module name="lastV" />
+        <module name="team01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javajunior" target="1.8" />
+      <module name="team01" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
